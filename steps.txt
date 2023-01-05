@@ -1,0 +1,2 @@
+Flask application :
+https://towardsdatascience.com/develop-an-interactive-drawing-recognition-app-based-on-cnn-deploy-it-with-flask-95a805de10c0
